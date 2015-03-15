@@ -1,1 +1,1 @@
-# pit-for-npm
+[pinf.it](http://pinf.it) command-line tool for [npm](http://npmjs.org).
